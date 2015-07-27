@@ -1,3 +1,3 @@
-module.exports = function() {
+exports.royed = function() {
     console.log("Module roylee started");
 }

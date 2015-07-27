@@ -1,0 +1,23 @@
+{
+  "name": "roylee",
+  "version": "1.0.0",
+  "description": "Trial package creation",
+  "main": "roylee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royleekiat/roylee.git"
+  },
+  "author": "Roy Lee <roy.lee.2013@sis.smu.edu.sg>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/royleekiat/roylee/issues"
+  },
+  "homepage": "https://github.com/royleekiat/roylee#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
