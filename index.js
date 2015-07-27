@@ -1,1 +1,1 @@
-module.exports = require('./roylee.js');
+module.exports = require('./roylee');
