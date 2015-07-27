@@ -1,6 +1,6 @@
 {
   "name": "roylee",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Trial package creation",
   "main": "roylee.js",
   "scripts": {
